@@ -1,6 +1,6 @@
 <?php
 
-register_sidebar();
+// register_sidebar();
 
 add_theme_support( 'post-thumbnails' );
 
